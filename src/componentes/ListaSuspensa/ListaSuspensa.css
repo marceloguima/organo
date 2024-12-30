@@ -14,3 +14,7 @@
     box-sizing: border-box;
     border-radius: 10px;
 }
+
+.lista-suspensa select:focus{
+    outline: solid 1px #6278f7;
+}
